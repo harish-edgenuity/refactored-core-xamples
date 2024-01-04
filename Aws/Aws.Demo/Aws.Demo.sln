@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S3.Demo.API", "S3.Demo.API\S3.Demo.API.csproj", "{AD9B9E46-959F-4895-BAD7-B9CDA87B0280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoDB.API", "DynamoDB.API\DynamoDB.API.csproj", "{040CC4B5-1E0C-4589-9581-B3D07F2F363A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD9B9E46-959F-4895-BAD7-B9CDA87B0280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9B9E46-959F-4895-BAD7-B9CDA87B0280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9B9E46-959F-4895-BAD7-B9CDA87B0280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9B9E46-959F-4895-BAD7-B9CDA87B0280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040CC4B5-1E0C-4589-9581-B3D07F2F363A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040CC4B5-1E0C-4589-9581-B3D07F2F363A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040CC4B5-1E0C-4589-9581-B3D07F2F363A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040CC4B5-1E0C-4589-9581-B3D07F2F363A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACC7F64A-ADBC-4A3E-9FAC-9266AE0E755C}
+	EndGlobalSection
+EndGlobal

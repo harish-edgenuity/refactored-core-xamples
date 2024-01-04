@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "46QV74WiNkBQjkdg27d88GdAwsjTsh0DIZcSxmc71JI=",
+  "Source": "S3.Demo.API",
+  "BasePath": "_content/S3.Demo.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
