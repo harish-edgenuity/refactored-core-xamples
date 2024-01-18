@@ -1,0 +1,17 @@
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.exe
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.deps.json
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.runtimeconfig.json
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.dll
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Consumer.pdb
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.csproj.AssemblyReference.cache
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.AssemblyInfoInputs.cache
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.AssemblyInfo.cs
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.csproj.CopyComplete
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.dll
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\obj\Debug\net8.0\refint\RabbitMQ.Consumer.dll
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.pdb
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\obj\Debug\net8.0\RabbitMQ.Consumer.genruntimeconfig.cache
+D:\React\Poc\RabbitMQ\RabbitMQ.Producer\RabbitMQ.Producer\RabbitMQ.Consumer\obj\Debug\net8.0\ref\RabbitMQ.Consumer.dll
